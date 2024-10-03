@@ -4,3 +4,6 @@
 [submodule "simbir_account_service"]
 	path = simbir_account_service
 	url = https://github.com/Dr-EljanNajafov/simbir_account_service
+[submodule "simbir-timetable-service"]
+	path = simbir-timetable-service
+	url = https://github.com/Dr-EljanNajafov/simbir-timetable-service.git
