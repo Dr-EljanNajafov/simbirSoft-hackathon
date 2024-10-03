@@ -7,3 +7,6 @@
 [submodule "simbir-timetable-service"]
 	path = simbir-timetable-service
 	url = https://github.com/Dr-EljanNajafov/simbir-timetable-service.git
+[submodule "simbir-hospital-service"]
+	path = simbir-hospital-service
+	url = https://github.com/Dr-EljanNajafov/simbir-hospital-service.git
