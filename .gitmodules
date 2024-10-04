@@ -7,3 +7,6 @@
 [submodule "simbir_account_service"]
 	path = simbir_account_service
 	url = https://github.com/Dr-EljanNajafov/simbir_account_service
+[submodule "simbir-hospital-service"]
+	path = simbir-hospital-service
+	url = https://github.com/Dr-EljanNajafov/simbir-hospital-service
