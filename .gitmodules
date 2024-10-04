@@ -1,12 +1,3 @@
 [submodule "simbir-document-service"]
 	path = simbir-document-service
 	url = https://github.com/Dr-EljanNajafov/simbir-document-service
-[submodule "simbir-timetable-service"]
-	path = simbir-timetable-service
-	url = https://github.com/Dr-EljanNajafov/simbir-timetable-service
-[submodule "simbir_account_service"]
-	path = simbir_account_service
-	url = https://github.com/Dr-EljanNajafov/simbir_account_service
-[submodule "simbir-hospital-service"]
-	path = simbir-hospital-service
-	url = https://github.com/Dr-EljanNajafov/simbir-hospital-service
