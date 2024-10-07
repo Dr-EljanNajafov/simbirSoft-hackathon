@@ -35,4 +35,6 @@ Simbir.Health is a microservice application for managing clinical processes, all
 To run all microservices and the database, execute the following command:
 
 ```bash
+git clone --recurse-submodules https://github.com/Dr-EljanNajafov/simbirSoft-hackathon
+cd simbirSoft-hackathon
 docker-compose up -d
