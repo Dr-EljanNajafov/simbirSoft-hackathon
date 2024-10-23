@@ -5,19 +5,19 @@ Simbir.Health is a microservice application for managing clinical processes, all
 ## Main Task
 
 ### Account Service
-- URL: `http://localhost:8090/ui-swagger`
+- URL: `http://localhost:8090/swagger-ui/index.html#/`
 - Description: User management, authentication, and authorization.
 
 ### Hospital Service
-- URL: `http://localhost:9080/ui-swagger`
+- URL: `http://localhost:9080/swagger-ui/index.html#/`
 - Description: Manage hospital data.
 
 ### Timetable Service
-- URL: `http://localhost:9060/ui-swagger`
+- URL: `http://localhost:9060/swagger-ui/index.html#/`
 - Description: Manage schedules for doctors and hospitals.
 
 ### Document Service
-- URL: `http://localhost:9070/ui-swagger`
+- URL: `http://localhost:9070/swagger-ui/index.html#/`
 - Description: Manage patient medical records.
 
 ## Technologies Used
