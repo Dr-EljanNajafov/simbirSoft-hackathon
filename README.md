@@ -38,3 +38,15 @@ To run all microservices and the database, execute the following command:
 git clone --recurse-submodules https://github.com/Dr-EljanNajafov/simbirSoft-hackathon
 cd simbirSoft-hackathon
 docker-compose up -d
+```
+
+### Predefined Accounts
+
+The application includes several pre-configured user accounts with different roles:
+
+| №  | Username | Password | Role    |
+|----|----------|----------|---------|
+| 1  | admin    | admin    | admin   |
+| 2  | manager  | manager  | manager |
+| 3  | doctor   | doctor   | doctor  |
+| 4  | user     | user     | user    |
